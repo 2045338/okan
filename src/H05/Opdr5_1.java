@@ -42,7 +42,7 @@ public class Opdr5_1 extends Applet{
         g.drawString("Taartpunt", 295, 105);
         g.drawOval(300, 120, 50, 50);
         g.drawString("Cirkel",310,185);
-        
+
 
 
     }
