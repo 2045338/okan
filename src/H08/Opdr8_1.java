@@ -15,8 +15,8 @@ public class Opdr8_1 extends Applet
     int screeny, screenx;
     public void init()
     {
-        screenx = 800;
-        screeny = 600;
+        screenx = 500;
+        screeny = 300;
         setSize(screenx,screeny);
         text = "";
         label1=new Label("typ iets");
